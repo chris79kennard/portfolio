@@ -26,8 +26,6 @@ body {
 #header ul li {
   display: inline-block;
   margin-left: 25px;
-  width: 250px;
-  margin: 0 .5%;
   font-size: 200%;
   color: #13293d;
   background-color: rgb(245, 233, 233);
