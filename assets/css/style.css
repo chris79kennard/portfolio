@@ -12,7 +12,6 @@ body {
 
 #header img {
   height: 100px;
-  
 }
 
 #header h1 {
@@ -31,7 +30,6 @@ body {
   background-color: rgb(245, 233, 233);
   border: 3px solid #13293d;
 }
-
 
 #header ul li a {
   color: white;
@@ -69,13 +67,9 @@ work_sample {
   border: 15px solid silver;
 }
 
-
-
-
 work {
   border: 15px solid plum;
   flex: 1 0 200px;
-  
 }
 
 work img {
@@ -127,3 +121,4 @@ work img {
   footer {
     background-color: #bb8588;
   }
+}
