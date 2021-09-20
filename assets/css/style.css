@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(5, 39, 88);
+  background-color: rgb(12, 6, 92);
   color: white;
 }
 
@@ -12,6 +12,7 @@ body {
 
 #header img {
   height: 100px;
+  
 }
 
 #header h1 {
@@ -25,7 +26,14 @@ body {
 #header ul li {
   display: inline-block;
   margin-left: 25px;
+  width: 250px;
+  margin: 0 .5%;
+  font-size: 200%;
+  color: #13293d;
+  background-color: rgb(245, 233, 233);
+  border: 3px solid #13293d;
 }
+
 
 #header ul li a {
   color: white;
@@ -64,22 +72,26 @@ work_sample {
 }
 
 
-.best {
-  flex: 2 1 200px;
-}
+
 
 work {
   border: 15px solid plum;
   flex: 1 0 200px;
+  
 }
 
 work img {
   width: 50%;
 }
 
-#good-work-images {
+.images {
   display: flex;
 }
+
+.images.best {
+  flex: 2 1 200px;
+}
+
 #contact_info {
   height: 10vh;
   display: flex;
