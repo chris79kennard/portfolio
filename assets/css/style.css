@@ -54,17 +54,20 @@ body {
   padding: 60px;
   display: flex;
   justify-content: center;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   width: 90%;
-  height: 50vh;
   border: 15px solid peru;
 }
 
 .best_work_sample {
   flex: 2 1 200px;
   border: 15px solid silver;
+}
+
+.row {
+  display: flex;
 }
 
 figure {
@@ -81,7 +84,16 @@ figure img {
 }
 
 .images.best {
+  width: 100%;
   flex: 2 1 200px;
+}
+
+.second_best {
+  width: 40%;
+}
+
+.third_best {
+  width: 40%;
 }
 
 #contact_info {
