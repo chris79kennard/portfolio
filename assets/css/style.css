@@ -1,10 +1,11 @@
 body {
-  background-color: blue;
+  background-color: rgb(5, 39, 88);
   color: white;
 }
 
 #header {
-  border: 15px solid black;
+  height: 10vh;
+  border: 5px solid rgb(92, 80, 80);
   display: flex;
   flex-direction: row;
 }
@@ -14,7 +15,7 @@ body {
 }
 
 #header h1 {
-  padding: 25px;
+  padding: 10px 50px 0px 200px;
 }
 
 #header ul {
@@ -31,7 +32,7 @@ body {
 }
 
 #header ul li a:visited {
-  color: black;
+  color: rgb(175, 162, 162);
 }
 
 #header ul li a:hover {
@@ -39,31 +40,80 @@ body {
 }
 
 #about_me {
-  width: 700px;
+  height: 20vh;
+  display: flex;
   min-height: 200px;
   border: 15px solid green;
 }
 
-#work_sample {
-  width: 700px;
-  min-height: 800px;
+work_sample {
+  padding: 60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 90%;
+  height: 50vh;
   border: 15px solid peru;
 }
 
 .best_work_sample {
-  width: 700px;
-  min-height: 400px;
+  flex: 2 1 200px;
   border: 15px solid silver;
 }
 
-.good_work {
-  width: 350px;
-  min-height: 200px;
-  border: 15px solid plum;
+
+.best {
+  flex: 2 1 200px;
 }
 
+work {
+  border: 15px solid plum;
+  flex: 1 0 200px;
+}
+
+work img {
+  width: 50%;
+}
+
+#good-work-images {
+  display: flex;
+}
 #contact_info {
-  width: 700px;
+  height: 10vh;
+  display: flex;
+  font-weight: bold;
   min-height: 100px;
   border: 15px solid saddlebrown;
 }
+
+#contact_info li {
+  display: flex;
+  flex-direction: row;
+  display: inline;
+}
+
+#linkedin-text {
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  /* Use flex-direction to stack the navbar, sidebar, and body */
+  work_sample,
+  nav {
+    flex-direction: column;
+  }
+  /* Make the sidebar stack below the body */
+  work {
+    order: 2;
+  }
+  /* Change the header background */
+  header {
+    background: #772014;
+  }
+  /* Change the navbar and footer background */
+  nav,
+  footer {
+    background-color: #bb8588;
+  }
