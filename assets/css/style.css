@@ -8,8 +8,6 @@ p {
 }
 
 #header {
-  height: 10vh;
-  border: 5px solid rgb(92, 80, 80);
   display: flex;
   flex-direction: row;
 }
@@ -51,7 +49,7 @@ p {
   height: 20vh;
   display: flex;
   min-height: 200px;
-  border: 15px solid rgb(12, 12, 12);
+  border: 5px solid rgb(12, 12, 12);
 }
 .section_headers {
   position: relative;
