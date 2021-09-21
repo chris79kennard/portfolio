@@ -36,7 +36,7 @@ p {
 }
 
 #header ul li a {
-  color: white;
+  color: rgb(14, 12, 12);
 }
 
 #header ul li a:visited {
@@ -51,7 +51,7 @@ p {
   height: 20vh;
   display: flex;
   min-height: 200px;
-  border: 15px solid green;
+  border: 15px solid rgb(12, 12, 12);
 }
 .section_headers {
   position: relative;
@@ -82,7 +82,6 @@ p {
 }
 
 figure {
-  border: 15px solid plum;
   flex: 1 0 200px;
 }
 
