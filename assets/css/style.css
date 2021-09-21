@@ -18,7 +18,8 @@ p {
 }
 
 #header h1 {
-  padding: 10px 50px 0px 200px;
+  font-weight: bolder;
+  padding: 80px 20px 20px 100px;
 }
 
 #header ul {
@@ -50,7 +51,7 @@ p {
   height: 20vh;
   display: flex;
   min-height: 200px;
-  border: 5px solid rgb(12, 12, 12);
+  border: 10px solid rgb(12, 12, 12);
 }
 .section_headers {
   position: relative;
@@ -63,6 +64,7 @@ p {
 .work {
   display: center;
   font-size: 80px;
+  border: 10px solid black;
 }
 
 #work_sample {
@@ -137,7 +139,7 @@ figure color subtitle {
   display: flex;
   font-weight: bold;
   min-height: 100px;
-  border: 15px solid saddlebrown;
+  border: 10px solid rgb(0, 0, 0);
   padding: 15px;
 }
 
