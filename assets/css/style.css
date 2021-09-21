@@ -49,6 +49,10 @@ body {
   min-height: 200px;
   border: 15px solid green;
 }
+.section_headers {
+  position: relative;
+  padding: 20px;
+}
 
 #work_sample {
   padding: 60px;
@@ -89,15 +93,15 @@ figure img {
 }
 
 .second_best {
-  width: 40%;
+  width: 50%;
 }
 
 .third_best {
-  width: 40%;
+  width: 50%;
 }
 
 #contact_info {
-  height: 10vh;
+  height: 10.7vh;
   display: flex;
   font-weight: bold;
   min-height: 100px;
