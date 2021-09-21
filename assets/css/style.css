@@ -52,6 +52,8 @@ body {
 .section_headers {
   position: relative;
   padding: 20px;
+  font-size: 300%;
+  padding-bottom: 20px;
 }
 
 #work_sample {
@@ -85,6 +87,7 @@ figure img {
 
 .images {
   display: flex;
+  width: 100%;
 }
 
 .images.best {
@@ -106,12 +109,14 @@ figure img {
   font-weight: bold;
   min-height: 100px;
   border: 15px solid saddlebrown;
+  padding: 15px;
 }
 
 #contact_info li {
   display: flex;
   flex-direction: row;
   display: inline;
+  padding: 15px;
 }
 
 #linkedin-text {
