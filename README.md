@@ -10,10 +10,10 @@
 
 ### Portfolio Build to:
 
--Attract potential employers
--Show case my current skills
--To build appon as my skills progress.
--To complete home work assignment 2.
+- Attract potential employers
+- Show case my current skills
+- To build appon as my skills progress.
+- To complete home work assignment 2.
 
 # screen shot
 
