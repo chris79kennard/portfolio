@@ -144,8 +144,16 @@ figure color subtitle {
   width: 50%;
 }
 
+.second_best:hover {
+  opacity: 50%;
+}
+
 .third_best {
   width: 50%;
+}
+
+.third_best:hover {
+  opacity: 50%;
 }
 
 #contact_info {
