@@ -136,6 +136,10 @@ figure color subtitle {
   flex: 2 1 200px;
 }
 
+.images.best:hover {
+  opacity: 50%;
+}
+
 .second_best {
   width: 50%;
 }
