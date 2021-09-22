@@ -170,12 +170,12 @@ figure color subtitle {
   }
   /* Change the header background */
   header {
-    background: #772014;
+    background: #1d00c0;
   }
   /* Change the navbar and footer background */
   nav,
   footer {
-    background-color: #bb8588;
+    background-color: #00303b;
   }
   body {
     background: rgb(0, 156, 196);
