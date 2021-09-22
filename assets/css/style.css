@@ -109,6 +109,10 @@ figure card {
   color: white;
 }
 
+figure card:hover {
+  color: salmon;
+}
+
 figure card title {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
