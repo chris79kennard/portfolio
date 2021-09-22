@@ -80,6 +80,9 @@ p {
   align-items: center;
   width: 90%;
 }
+#work_sample:hover {
+  color: salmon;
+}
 
 .best_work_sample {
   flex: 2 1 200px;
@@ -152,6 +155,10 @@ figure color subtitle {
   flex-direction: column;
   padding: 15px;
   border: solid 5px;
+}
+
+#contact_info li:hover {
+  color: salmon;
 }
 
 #linkedin-text {
