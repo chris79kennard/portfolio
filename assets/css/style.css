@@ -5,6 +5,9 @@ body {
 
 p {
   padding: 10px;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
 }
 
 #header {
@@ -48,6 +51,7 @@ p {
 }
 
 #about_me {
+  flex-direction: row;
   height: 20vh;
   display: flex;
   min-height: 200px;
@@ -147,6 +151,7 @@ figure color subtitle {
   flex-direction: row;
   display: inline;
   padding: 15px;
+  border: solid 5px;
 }
 
 #linkedin-text {
