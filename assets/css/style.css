@@ -144,12 +144,12 @@ figure color subtitle {
   min-height: 100px;
   border: 10px solid rgb(0, 0, 0);
   padding: 15px;
+  overflow: auto;
 }
 
 #contact_info li {
-  display: flex;
-  flex-direction: row;
-  display: inline;
+  display: inline-block;
+  flex-direction: column;
   padding: 15px;
   border: solid 5px;
 }
