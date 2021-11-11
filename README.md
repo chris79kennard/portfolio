@@ -17,7 +17,7 @@
 
 # screen shot
 
-![updated Portfolio page](screenShot/portfolio.png)
+![updated Portfolio page](assets/images/screencapture-file-C-Users-Kennard-Desktop-Classwork-portfolio-index-html-2021-11-10-19_55_11.png)
 
 # links
 
@@ -27,4 +27,4 @@
 - [Pipe Dreams Full Stack API](https://pipe-dreams.herokuapp.com/)
 - [Dynamite Recipes API](https://damienluzzo33.github.io/Project-1/)
 - [Password Generator](https://chris79kennard.github.io/Password-Generator/)
-- [repository](https://github.com/chris79kennard/portfolio)
+- [Repository](https://github.com/chris79kennard/portfolio)
