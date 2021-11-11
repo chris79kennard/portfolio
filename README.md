@@ -21,5 +21,10 @@
 
 # links
 
-- [deployed website](https://chris79kennard.github.io/portfolio/)
+- [deployed website Portfolio](https://chris79kennard.github.io/portfolio/)
+- [Weather Dash Board](https://chris79kennard.github.io/Weather-Dash-Board-/)
+- [Dragon Ball Z Quiz Game](https://chris79kennard.github.io/Code-Quiz/)
+- [Pipe Dreams Full Stack API](https://pipe-dreams.herokuapp.com/)
+- [Dynamite Recipes API](https://damienluzzo33.github.io/Project-1/)
+- [Password Generator](https://chris79kennard.github.io/Password-Generator/)
 - [repository](https://github.com/chris79kennard/portfolio)
