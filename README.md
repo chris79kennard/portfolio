@@ -1,4 +1,4 @@
-# Christopher Kennard's 2st home work assignment
+# Christopher Kennard's Portfolio
 
 ## Task: Build A portfolio of work to showcase my skills and talents to employers looking to fill a part-time or full-time position
 
